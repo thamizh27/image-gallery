@@ -3,7 +3,8 @@ Simple gallery with images from the pixabay API. Tailwind css is built into work
 
 # Usage
 Add your Pixabay API key to .env - https://pixabay.com/api/docs/
-``
+
+```
 # Install dependencies
 npm install
 
@@ -12,4 +13,4 @@ npm start
 
 # Build CSS and assets
 npm run build
-``
+```
