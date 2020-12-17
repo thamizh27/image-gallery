@@ -1,13 +1,9 @@
-# Personal Portfolio - React & Tailwind CSS
+# Pixabay Image Gallery - React & Tailwind CSS
+Simple gallery with images from the pixabay API. Tailwind css is built into workflow with postcss and autoprefixer.
 
-Personal Portfolio made with react, react router, tailwind css and aos-Animation On Scroll library
-Tailwind css is built into workflow with postcss and autoprefixer.
-
-## Usage
-
-Checkout for AOS library (https://github.com/michalsnik/aos)[Documentation]
-
-```
+# Usage
+Add your Pixabay API key to .env - https://pixabay.com/api/docs/
+``
 # Install dependencies
 npm install
 
@@ -16,4 +12,4 @@ npm start
 
 # Build CSS and assets
 npm run build
-```
+``
